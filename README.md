@@ -1,6 +1,6 @@
 ### Hi! I'm Louisa :) 👋
 
-### About Me
+### ⭐️ About Me:
 
 🎓 **I'm a Computer Science Major at the University of Illinois at Urbana-Champaign**  
 💖 **I recently joined a boxing club! It's now a part of my weekly Saturday routine**  
@@ -10,7 +10,7 @@ Interested in using software to solve practical problems and make an impact. I a
 
 ---
 
-### 🌟 Highlights
+### 🚀 Highlights:
 
 - **🖥️ National Center for Supercomputing Applications (NCSA)**  
     Utilizing NLP to analyze the impact of science documentaries by studying streaming platform reviews. Implemented BERT models using Hugging Face.
