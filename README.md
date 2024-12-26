@@ -4,7 +4,7 @@
 
 🎓 **I'm a Computer Science Major at the University of Illinois at Urbana-Champaign**  
 💖 **I recently joined a boxing club! It's now a part of my weekly Saturday routine**  
-♟️ **I played competetive chess for 8 years— always down for a game!**  
+♟️ **I played competitive chess for 8 years— always down for a game!**  
 
 Interested in using software to solve practical problems and make an impact. I absolutely love working on projects where I can build something useful while picking up new skills along the way! **Feel free to reach out with any opportunities or just to chat on my LinkedIn! 😊**
 
