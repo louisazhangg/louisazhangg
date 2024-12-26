@@ -2,7 +2,7 @@
 
 ### ⭐️ About Me:
 
-📍 I'm a Computer Science Major at the University of Illinois at Urbana-Champaign  
+📍 Computer Science Student at the University of Illinois at Urbana-Champaign  
 ♟️ Played competitive chess for 8 years— always down for a game!  
 💖 Been doing boxing for the past couple years! It's now a part of my weekly Saturday routine  
 
