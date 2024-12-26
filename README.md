@@ -1,10 +1,10 @@
-### Hi! I'm Louisa :) 👋
+### Hi! I'm Louisa 🙂👋
 
 ### ⭐️ About Me:
 
 📍 I'm a Computer Science Major at the University of Illinois at Urbana-Champaign  
-♟️ I played competitive chess for 8 years— always down for a game!  
-💖 I've been doing boxing for the past couple years! It's now a part of my weekly Saturday routine  
+♟️ Played competitive chess for 8 years— always down for a game!  
+💖 Been doing boxing for the past couple years! It's now a part of my weekly Saturday routine  
 
 Interested in using software to solve practical problems and make an impact. I love working on projects where I can build something useful while picking up new skills along the way! **Feel free to reach out with any opportunities or just to chat on my LinkedIn! 😊**
 
